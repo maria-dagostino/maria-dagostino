@@ -1,6 +1,6 @@
 ## Hi there 👋
 I’m Maria
-Creative background in videomaking and motion graphics, now focusing on data analytics and data science.
+/nCreative background in videomaking and motion graphics, now focusing on data analytics and data science.
 
 I’m currently learning data analysis, exploring datasets, and building skills in Python, statistics, and machine learning.
 
