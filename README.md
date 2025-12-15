@@ -10,7 +10,7 @@ Fun facts:
 - I have a blue merle Australian Shepherd
 - Yoga is part of my routine
 - I enjoy rock climbing
-- I embrace change and continuous learning
+- I embrace change and continuous learning because nothing is ever destroyed, everything is transformed.
 <!--
 **mariadago94-hue/mariadago94-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
