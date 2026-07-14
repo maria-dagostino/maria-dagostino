@@ -1,7 +1,7 @@
 ## Hi there 👋
 I’m Maria, creative background in videomaking and motion graphics, now focusing on data analytics and data science.
 
-I’m currently learning data analysis, exploring datasets, and building skills in Python, statistics, and machine learning.
+I recently completed a Master in Data Science, Analytics, and AI, at Start2Impact where i learned data analysis, exploring datasets, and building skills in Python, statistics, and machine learning.
 
 My main tools include Python, NumPy, SQL, Jupyter Notebook, and data visualization libraries.  
 I also bring a background in videomaking and motion graphics, with tools like After Effects and Premiere Pro.
