@@ -1,16 +1,23 @@
 ## Hi there 👋
-I’m Maria, creative background in videomaking and motion graphics, now focusing on data analytics and data science.
+Every growth begins at the edge of our comfort zone.
 
-I recently completed a Master in Data Science, Analytics, and AI, at Start2Impact where i learned data analysis, exploring datasets, and building skills in Python, statistics, and machine learning.
+I learned this through climbing, and today it shapes the way I approach data.
 
-My main tools include Python, NumPy, SQL, Jupyter Notebook, and data visualization libraries.  
-I also bring a background in videomaking and motion graphics, with tools like After Effects and Premiere Pro.
+For me, every project starts the same way a climbing route does:
+observe, understand, experiment, improve.
 
-Fun facts:
-- I have a blue merle Australian Shepherd
-- Yoga is part of my routine
-- I enjoy rock climbing
-- I embrace change and continuous learning because nothing is ever destroyed, everything is transformed.
+That's the mindset behind every repository you'll find here.
+
+## About me
+I'm a Data Analyst with a background in visual communication.
+
+For more than ten years I worked as a videomaker and motion graphics designer, helping people communicate complex ideas through visual storytelling.
+
+Today I combine analytical thinking and communication to transform data into meaningful insights.
+
+## Beyond code
+🧗 Climbing taught me that growth happens one move at a time.
+🧘 Yoga reminds me that balance isn't something you find—it's something you practice.
 <!--
 **mariadago94-hue/mariadago94-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
